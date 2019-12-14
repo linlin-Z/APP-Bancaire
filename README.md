@@ -1,2 +1,2 @@
-# APP-Bancaire-
+# APP-Bancaire
 PL/SQL, ORACLE SQL
